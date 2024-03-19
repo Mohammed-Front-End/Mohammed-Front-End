@@ -1,5 +1,28 @@
 
 
+# Hi, I'm Mohammed! 👋
+
+
+## 🚀 About Me
+I'm a Front end developer...
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hassan-80b562228/)
+
+## 🛠 Skills
+Javascript, HTML, CSS, Reactjs, tailwind...
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning ReactJs...
+
+
+
+
+
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mohammed-Front-End&style=flat-square"></h2>
 
 <p align="justify">I am a ReactJS developer .</p>
@@ -10,7 +33,7 @@
 
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
 
-<p align="justify">Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash. My <a href="https://github.com/Mohammed-Front-End/asciibots-bash">asciibots-bash</a> project is one example of this, and in the future I hope to find more projects like it that I can port to bash.</p>
+<p align="justify">Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash.</p>
 
 ## My Skills
 
@@ -20,9 +43,7 @@
 
 ### Languages/Frameworks I'm good at:
 </code>
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a>
-
 <a href="https://en.wikipedia.org/wiki/ECMAScript"><img alt="ECMAScript 11" title="ECMAScript 11" src="https://github.com/cheesits456/cheesits456/raw/master/icons/ecmascript.png" height="42"></a>
 <a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a>
