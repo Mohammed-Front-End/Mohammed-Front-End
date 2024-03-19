@@ -1,4 +1,4 @@
-[![Banner][banner-img]][banner-link]
+
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mohammed-Front-End&style=flat-square"></h2>
 
