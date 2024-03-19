@@ -18,10 +18,8 @@ Javascript, HTML, CSS, Reactjs, tailwind...
 
 
 
-<h2>## 🚀 About Me
-  I'm a Front end developer... <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mohammed-Front-End&style=flat-square"></h2>
-
-<p align="justify">I am a ReactJS developer .</p>
+<h2>## 🚀 About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mohammed-Front-End&style=flat-square"></h2>
+<h3 align="justify">I'm a Front end developer...</h3>
 
 <p align="justify">I started in 2022 with HTML and CSS, making simple static web pages and expanding my knowledge over time.I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so. In 2023 I found ReactJS and started using it to create some basic  web apps.</p>
 
