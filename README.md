@@ -20,6 +20,7 @@
 
 ### Languages/Frameworks I'm good at:
 </code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a>
 
 <a href="https://en.wikipedia.org/wiki/ECMAScript"><img alt="ECMAScript 11" title="ECMAScript 11" src="https://github.com/cheesits456/cheesits456/raw/master/icons/ecmascript.png" height="42"></a>
@@ -31,7 +32,7 @@
 ### Languages/Frameworks I'm learning:
 
 <a href="https://react.dev/"><img alt="ReactJs" title="ReactJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="42"></a>
-
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 <!-- Link anchors -->
 [banner-img]: https://raw.githubusercontent.com/cheesits456/cheesits456/master/personal-banner.gif
