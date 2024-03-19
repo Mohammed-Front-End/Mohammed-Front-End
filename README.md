@@ -2,11 +2,6 @@
 
 # Hi, I'm Mohammed! 👋
 
-
-## 🚀 About Me
-I'm a Front end developer...
-
-
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hassan-80b562228/)
@@ -23,7 +18,7 @@ Javascript, HTML, CSS, Reactjs, tailwind...
 
 
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mohammed-Front-End&style=flat-square"></h2>
+<h2>## 🚀 About MeI'm a Front end developer... <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Mohammed-Front-End&style=flat-square"></h2>
 
 <p align="justify">I am a ReactJS developer .</p>
 
