@@ -44,10 +44,9 @@
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=cheesits456&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
 
-[pin3-link]: https://github.com/Mohammed-Front-end/NewDiscordBridge
-[pin4-img]: [https://Mohammed$20Hassan-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=captcha-generator&show_owner=true](https://github-readme-stats.vercel.app/api?username=Mohammed-Front-End&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai)
+[pin1-img]: [https://Mohammed-Front-End-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=captcha-generator&show_owner=true](https://github-readme-stats.vercel.app/api?username=Mohammed-Front-End&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=monokai)
 
-[pin5-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=Mohammed-Front-end&repo=discord-ssh-bot
-[pin5-link]: https://github.com/i0plus0equals1/discord-ssh-bot
-[pin6-img]: https://Mohammed-Front-end-readme-stats.vercel.app/api/pin/?username=HaileyBot&repo=sanitize-role-mentions&show_owner=true
-[pin6-link]: https://github.com/HaileyBot/sanitize-role-mentions
+[pin3-link]: https://github.com/Mohammed-Front-end/NewDiscordBridge
+[pin2-img]: https://cheesits456-readme-stats.vercel.app/api/pin/?username=Mohammed-Front-end&repo=discord-ssh-bot
+
+
